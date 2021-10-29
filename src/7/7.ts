@@ -13,4 +13,4 @@ const todoList: MyReadonly<NewTodo> = {
 }
 
 // todoList.title = "Hello" // Error: cannot reassign a readonly property
-// todo.description = "barFoo" // Error: cannot reassign a readonly property
+// todoList.description = "barFoo" // Error: cannot reassign a readonly property
